@@ -1,3 +1,3 @@
 # pythonfinalodev
 
-patika.dev
+www.patika.dev
